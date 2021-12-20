@@ -99,3 +99,4 @@ The above is a field report illustrating Lacan's idea of 心慟. :-)
 our $VERSION = 1257342595.16102; # 2009年11月 4日 周三 21時50分12秒 CST
 
 13:48 <nothingmuch> use Time::HiRes qw(time);
+13:48 <audreyt> right, it's the era of 64 bits
