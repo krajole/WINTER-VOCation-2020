@@ -102,3 +102,5 @@ our $VERSION = 1257342595.16102; # 2009年11月 4日 周三 21時50分12秒 CST
 13:48 <audreyt> right, it's the era of 64 bits
 13:49 <nothingmuch> =)
 ...next...
+13:51  * nothingmuch will use /usr/bin/uuidgen
+13:52 <nothingmuch> since there's no concept of "time" then the version you should use is competely incidential
