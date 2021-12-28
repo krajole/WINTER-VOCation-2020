@@ -129,3 +129,5 @@ our $VERSION = 1257342595.16102; # 2009年11月 4日 周三 21時50分12秒 CST
 14:02 <audreyt> "sync; sync; sudo sync; sudo shutdown -k; sudo halt -lnqu"
 14:03 <audreyt> was my (working) translation
 ...goto...
+13:58 <audreyt> which is what I now use daily whenever I get into an online situation where flamewar is immediate
+13:58 <audreyt> ...so I gets (as promised by the Sutra) absolute immunity over flamewars
