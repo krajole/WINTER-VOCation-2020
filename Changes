@@ -141,3 +141,8 @@ our $VERSION = 1257342595.16102; # 2009年11月 4日 周三 21時50分12秒 CST
 ...last...
 14:04 <audreyt> well, translations evolve, too :) we'll probably revisit many times with reified control...
 14:05 <audreyt> in realspace though, it's 10pm and I gotta go home and sleep. ttyl!
+14:05 <nothingmuch> ciao ciao
+14:05 <nothingmuch> i need to do laundry and rehearse myself
+14:06 <audreyt> :D see ya!
+
+our $VERSION = 1257305840; # 2009年11月 4日 周三 11時37分11秒 CST
