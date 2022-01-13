@@ -146,3 +146,7 @@ our $VERSION = 1257342595.16102; # 2009年11月 4日 周三 21時50分12秒 CST
 14:06 <audreyt> :D see ya!
 
 our $VERSION = 1257305840; # 2009年11月 4日 周三 11時37分11秒 CST
+
+* Restore SYNOPSIS text so it works under modern Perl again.
+
+* Restore the \n, \t and \x20 with proper quotes around them.
