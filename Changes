@@ -155,3 +155,8 @@ our $VERSION = 1257305840; # 2009年11月 4日 周三 11時37分11秒 CST
 
     author undef;
     license 'cc0';
+
+our $VERSION = 1257301380; # 2009年11月 4日 周三 10時22分59秒 CST
+
+* VERSIONING CHANGE: This module is now using the Unix timestamp
+  as its version number format.
