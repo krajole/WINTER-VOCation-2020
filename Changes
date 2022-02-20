@@ -163,3 +163,8 @@ our $VERSION = 1257301380; # 2009年11月 4日 周三 10時22分59秒 CST
 
 * LICENSING CHANGE: This compilation and all individual files in it
   are now under the nullary CC0 1.0 Universal terms:
+
+  To the extent possible under law, 唐鳳 has waived all copyright and
+  related or neighboring rights to Lingua-Sinica-PerlYuYan.
+
+[Changes for 0.11 - 2009-11-03]
