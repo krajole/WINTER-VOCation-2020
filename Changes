@@ -168,3 +168,6 @@ our $VERSION = 1257301380; # 2009年11月 4日 周三 10時22分59秒 CST
   related or neighboring rights to Lingua-Sinica-PerlYuYan.
 
 [Changes for 0.11 - 2009-11-03]
+
+* Fix parser; remove spaces at EOL.
+* Declare correct dependency on Filter::Simple::Compile.
