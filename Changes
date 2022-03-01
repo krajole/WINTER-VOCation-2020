@@ -175,3 +175,7 @@ our $VERSION = 1257301380; # 2009年11月 4日 周三 10時22分59秒 CST
 * Bump required Perl version from 5.8 to 5.10 in order to support:
       say, ~~, //, //=, given, when, break
 * Translate (if 倘), (while 當)
+
+Contributed by: Lars Dɪᴇᴄᴋᴏᴡ 迪拉斯 <daxim@cpan.org>
+
+[Changes for 0.10 - 2009-10-31]
