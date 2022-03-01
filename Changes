@@ -179,3 +179,7 @@ our $VERSION = 1257301380; # 2009年11月 4日 周三 10時22分59秒 CST
 Contributed by: Lars Dɪᴇᴄᴋᴏᴡ 迪拉斯 <daxim@cpan.org>
 
 [Changes for 0.10 - 2009-10-31]
+
+* LICENSING CHANGE: This compilation and all individual files in it
+  are now under the permissive "MIT" license.  See the COPYRIGHT section
+  in README for the new terms.
