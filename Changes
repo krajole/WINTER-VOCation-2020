@@ -183,3 +183,5 @@ Contributed by: Lars Dɪᴇᴄᴋᴏᴡ 迪拉斯 <daxim@cpan.org>
 * LICENSING CHANGE: This compilation and all individual files in it
   are now under the permissive "MIT" license.  See the COPYRIGHT section
   in README for the new terms.
+
+* Patch from Cornelius: Add support for UTF-8 literal text.
