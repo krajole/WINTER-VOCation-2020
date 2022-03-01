@@ -171,3 +171,7 @@ our $VERSION = 1257301380; # 2009年11月 4日 周三 10時22分59秒 CST
 
 * Fix parser; remove spaces at EOL.
 * Declare correct dependency on Filter::Simple::Compile.
+* Add some more keywords and operators:
+* Bump required Perl version from 5.8 to 5.10 in order to support:
+      say, ~~, //, //=, given, when, break
+* Translate (if 倘), (while 當)
