@@ -189,3 +189,4 @@ Contributed by: Lars Dɪᴇᴄᴋᴏᴡ 迪拉斯 <daxim@cpan.org>
 * We now require Perl 5.8.0 or later.
 
 * New translated keywords: readdir readlink rewinddir seekdir symlink
+  syscall sysread sysseek syswrite telldir.
