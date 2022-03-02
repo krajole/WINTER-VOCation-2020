@@ -190,3 +190,5 @@ Contributed by: Lars Dɪᴇᴄᴋᴏᴡ 迪拉斯 <daxim@cpan.org>
 
 * New translated keywords: readdir readlink rewinddir seekdir symlink
   syscall sysread sysseek syswrite telldir.
+
+[Changes for 0.03 - 2002-08-18]
