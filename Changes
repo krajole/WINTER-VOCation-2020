@@ -197,3 +197,6 @@ Contributed by: Lars Dɪᴇᴄᴋᴏᴡ 迪拉斯 <daxim@cpan.org>
 * Cleaned up POD.
 
 [Changes for 0.02 - 2002-01-22]
+
+* Eliminate duplicates.
+* Add a new example.
