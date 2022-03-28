@@ -16,3 +16,4 @@ META.yml
 README
 t/0-basic.t
 t/1-mult.t
+t/2-table.t
