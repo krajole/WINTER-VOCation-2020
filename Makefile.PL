@@ -1,2 +1,2 @@
 #!/usr/bin/perl
-us
+use i
