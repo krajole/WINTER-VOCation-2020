@@ -1,1 +1,1 @@
-#!/usr/bin/pe
+#!/usr/bin/perl
