@@ -11,3 +11,8 @@ inc/Module/Install/Win32.pm
 inc/Module/Install/WriteAll.pm
 lib/Lingua/Sinica/PerlYuYan.pm
 Makefile.PL			List of files
+MANIFEST
+META.yml
+README
+t/0-basic.t
+t/1-mult.t
