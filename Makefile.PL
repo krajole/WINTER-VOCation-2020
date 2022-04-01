@@ -1,2 +1,2 @@
 #!/usr/bin/perl
-use inc
+use inc:
