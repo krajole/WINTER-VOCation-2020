@@ -1,2 +1,2 @@
 #!/usr/bin/perl
-use inc::M
+use inc::Mo
