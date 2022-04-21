@@ -1,2 +1,2 @@
 #!/usr/bin/perl
-use inc::Mod
+use inc::Modul
