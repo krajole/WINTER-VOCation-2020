@@ -1,2 +1,2 @@
 #!/usr/bin/perl
-use inc::Module::
+use inc::Module::I
