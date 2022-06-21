@@ -3,3 +3,4 @@ use inc::Module::Install;
 
 author undef;
 license 'CC0';
+
