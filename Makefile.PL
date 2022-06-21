@@ -2,4 +2,4 @@
 use inc::Module::Install;
 
 author undef;
-license 'CC0
+license 'CC0';
