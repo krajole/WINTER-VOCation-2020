@@ -4,4 +4,4 @@ use inc::Module::Install;
 author undef;
 license 'CC0';
 
-all_from
+all_from 
