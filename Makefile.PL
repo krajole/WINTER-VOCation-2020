@@ -5,4 +5,4 @@ author undef;
 license 'CC0';
 
 all_from 'lib/Lingua/Sinica/PerlYuYan.pm';
-readme_from 'lib
+readme_from 'lib/
