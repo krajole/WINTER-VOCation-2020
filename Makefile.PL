@@ -8,3 +8,5 @@ all_from 'lib/Lingua/Sinica/PerlYuYan.pm';
 readme_from 'lib/Lingua/Sinica/PerlYuYan.pm';
 
 requires qw( Filter::Simple::Compile 0.02 );
+
+Wr
