@@ -3,3 +3,6 @@ NAME
     Lingua::Sinica::PerlYuYan - 中書珨 - Perl in Classical Chinese in Perl
 
 VERSION
+    our $VERSION = 1257439830.94865; # 2009年11月 6日 周五 00時50分39秒 CST
+
+SYNOPSIS
