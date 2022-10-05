@@ -7,3 +7,4 @@ VERSION
 
 SYNOPSIS
         # The Sieve of Eratosthenes - 埃拉托斯芬篩法
+        use Lingua::Sinica::PerlYuYan;
