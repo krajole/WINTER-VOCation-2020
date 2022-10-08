@@ -21,3 +21,8 @@ SYNOPSIS
 DESCRIPTION
     This module makes it possible to write Perl programs in Classical
     Chinese poetry in Perl.
+
+    說此經者，能以珨文言文珨。
+
+    (If one *has* to ask "Why?", please refer to Lingua::Romana::Perligata
+    for related information.)
