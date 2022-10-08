@@ -26,3 +26,7 @@ DESCRIPTION
 
     (If one *has* to ask "Why?", please refer to Lingua::Romana::Perligata
     for related information.)
+
+    (闕譯，以待來者。)
+
+    This module uses the single-character property of Chinese to
