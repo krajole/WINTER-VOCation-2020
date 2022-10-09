@@ -30,3 +30,5 @@ DESCRIPTION
     (闕譯，以待來者。)
 
     This module uses the single-character property of Chinese to
+    disambiguate between keywords, so one may elide whitespaces much like in
+    real Chinese writings.
