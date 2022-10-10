@@ -40,3 +40,4 @@ DESCRIPTION
     a string containing English programs into Chinese.
 
 SEE ALSO
+    Filter::Simple::Compile, Lingua::Romana::Perligata
