@@ -35,3 +35,8 @@ DESCRIPTION
 
     The vocabulary is in the 文言 (literary text) mode, not the common 白話
     (spoken text) mode with multisyllabic words.
+
+    "Lingua::Sinica::PerlYuYan::translate()" (or simply as "譯()") translates
+    a string containing English programs into Chinese.
+
+SEE ALSO
