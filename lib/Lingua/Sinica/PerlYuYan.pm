@@ -10,3 +10,5 @@ use Encode ();
 our $VERSION = 1257700140.47574; # 2009年11月 9日 周一 01時09分11秒 CST
 
 =encoding utf8
+
+=head1 NAME
