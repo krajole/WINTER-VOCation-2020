@@ -20,3 +20,6 @@ Lingua::Sinica::PerlYuYan - 中書珨 - Perl in Classical Chinese in Perl
 our $VERSION = 1257700140.47574; # 2009年11月 9日 周一 01時09分11秒 CST
 
 =head1 SYNOPSIS
+
+    # The Sieve of Eratosthenes - 埃拉托斯芬篩法
+    use Lingua::Sinica::PerlYuYan;
