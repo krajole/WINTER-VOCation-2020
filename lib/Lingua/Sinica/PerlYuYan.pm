@@ -23,3 +23,7 @@ our $VERSION = 1257700140.47574; # 2009年11月 9日 周一 01時09分11秒 CST
 
     # The Sieve of Eratosthenes - 埃拉托斯芬篩法
     use Lingua::Sinica::PerlYuYan;
+
+      用籌兮用嚴。井涸兮無礙
+    。印曰最高矣  又道數然哉。
+    。截起吾純風  賦小入大合。
