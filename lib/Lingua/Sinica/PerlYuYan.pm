@@ -41,3 +41,5 @@ This module makes it possible to write Perl programs in Classical Chinese poetry
 
 (If one I<has> to ask "Why?", please refer to L<Lingua::Romana::Perligata> for
 related information.)
+
+(闕譯，以待來者。)
