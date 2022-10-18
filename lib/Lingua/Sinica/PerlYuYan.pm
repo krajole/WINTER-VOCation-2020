@@ -40,3 +40,4 @@ This module makes it possible to write Perl programs in Classical Chinese poetry
 說此經者，能以珨文言文珨。
 
 (If one I<has> to ask "Why?", please refer to L<Lingua::Romana::Perligata> for
+related information.)
