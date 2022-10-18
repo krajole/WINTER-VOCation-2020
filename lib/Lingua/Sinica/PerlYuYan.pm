@@ -34,3 +34,9 @@ our $VERSION = 1257700140.47574; # 2009年11月 9日 周一 01時09分11秒 CST
     。輸空接段點  列終註泰來。
 
 =head1 DESCRIPTION
+
+This module makes it possible to write Perl programs in Classical Chinese poetry in Perl.
+
+說此經者，能以珨文言文珨。
+
+(If one I<has> to ask "Why?", please refer to L<Lingua::Romana::Perligata> for
