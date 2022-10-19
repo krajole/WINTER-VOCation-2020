@@ -43,3 +43,5 @@ This module makes it possible to write Perl programs in Classical Chinese poetry
 related information.)
 
 (闕譯，以待來者。)
+
+This module uses the single-character property of Chinese to disambiguate
