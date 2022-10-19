@@ -45,3 +45,7 @@ related information.)
 (闕譯，以待來者。)
 
 This module uses the single-character property of Chinese to disambiguate
+between keywords, so one may elide whitespaces much like in real Chinese writings.
+
+The vocabulary is in the 文言 (literary text) mode, not the common 白話
+(spoken text) mode with multisyllabic words.
