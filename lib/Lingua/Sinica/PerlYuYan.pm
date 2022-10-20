@@ -49,3 +49,8 @@ between keywords, so one may elide whitespaces much like in real Chinese writing
 
 The vocabulary is in the 文言 (literary text) mode, not the common 白話
 (spoken text) mode with multisyllabic words.
+
+C<Lingua::Sinica::PerlYuYan::translate()> (or simply as C<譯()>) translates a
+string containing English programs into Chinese.
+
+=cut
