@@ -54,3 +54,9 @@ C<Lingua::Sinica::PerlYuYan::translate()> (or simply as C<譯()>) translates a
 string containing English programs into Chinese.
 
 =cut
+
+our %Tab;
+while (<DATA>) {
+    $_ = Encode::is_utf8($_) ? $_ : Encode::decode_utf8($_);
+
+    next if /^\s*$/;
