@@ -61,3 +61,4 @@ while (<DATA>) {
 
     next if /^\s*$/;
     my @eng = split ' ';
+    my @chi = map {/\A [!-~]+ \z/msx ? $_ : split //, $_}
