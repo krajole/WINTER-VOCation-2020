@@ -60,3 +60,4 @@ while (<DATA>) {
     $_ = Encode::is_utf8($_) ? $_ : Encode::decode_utf8($_);
 
     next if /^\s*$/;
+    my @eng = split ' ';
