@@ -62,3 +62,6 @@ while (<DATA>) {
     next if /^\s*$/;
     my @eng = split ' ';
     my @chi = map {/\A [!-~]+ \z/msx ? $_ : split //, $_}
+      # clusters of ASCII are untranslated keywords; keep them
+      split ' ', <DATA>;
+    for (my $i = 0; $i <= $#eng; $i++) {
