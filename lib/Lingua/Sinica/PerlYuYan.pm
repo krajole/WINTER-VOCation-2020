@@ -66,3 +66,6 @@ while (<DATA>) {
       split ' ', <DATA>;
     for (my $i = 0; $i <= $#eng; $i++) {
         next if $chi[$i] eq $eng[$i];    # filter untranslated
+        $Tab{$chi[$i]} =    # append space if keyword, but not single letter
+        $eng[$i] =~ /\A [a-z]{2,} \z/msx ? $eng[$i] . ' ' : $eng[$i];
+    }
