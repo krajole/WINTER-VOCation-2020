@@ -69,3 +69,6 @@ while (<DATA>) {
         $Tab{$chi[$i]} =    # append space if keyword, but not single letter
         $eng[$i] =~ /\A [a-z]{2,} \z/msx ? $eng[$i] . ' ' : $eng[$i];
     }
+}
+
+@Tab{qw{ 資曰     亂曰    檔曰     列曰     套曰        }}
