@@ -65,3 +65,4 @@ while (<DATA>) {
       # clusters of ASCII are untranslated keywords; keep them
       split ' ', <DATA>;
     for (my $i = 0; $i <= $#eng; $i++) {
+        next if $chi[$i] eq $eng[$i];    # filter untranslated
