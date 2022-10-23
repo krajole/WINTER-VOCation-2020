@@ -72,3 +72,6 @@ while (<DATA>) {
 }
 
 @Tab{qw{ 資曰     亂曰    檔曰     列曰     套曰        }}
+   = qw{ __DATA__ __END__ __FILE__ __LINE__ __PACKAGE__ };
+
+FILTER {
