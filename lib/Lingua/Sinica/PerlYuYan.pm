@@ -75,3 +75,6 @@ while (<DATA>) {
    = qw{ __DATA__ __END__ __FILE__ __LINE__ __PACKAGE__ };
 
 FILTER {
+    $_ = Encode::is_utf8($_) ? $_ : Encode::decode_utf8($_);
+
+    foreach my $key ( sort { length $b <=> length $a } keys %Tab ) {
