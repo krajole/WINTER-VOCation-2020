@@ -78,3 +78,5 @@ FILTER {
     $_ = Encode::is_utf8($_) ? $_ : Encode::decode_utf8($_);
 
     foreach my $key ( sort { length $b <=> length $a } keys %Tab ) {
+        s/$key/$Tab{$key}/g;
+    }
