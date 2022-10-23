@@ -80,3 +80,6 @@ FILTER {
     foreach my $key ( sort { length $b <=> length $a } keys %Tab ) {
         s/$key/$Tab{$key}/g;
     }
+
+    return($_ = Encode::encode_utf8($_));
+};
