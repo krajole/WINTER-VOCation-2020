@@ -83,3 +83,5 @@ FILTER {
 
     return($_ = Encode::encode_utf8($_));
 };
+
+no warnings 'redefine';
