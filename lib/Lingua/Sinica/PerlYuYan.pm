@@ -85,3 +85,4 @@ FILTER {
 };
 
 no warnings 'redefine';
+sub translate {
