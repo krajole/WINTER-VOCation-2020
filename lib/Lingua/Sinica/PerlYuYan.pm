@@ -86,3 +86,4 @@ FILTER {
 
 no warnings 'redefine';
 sub translate {
+    my $code = shift;
