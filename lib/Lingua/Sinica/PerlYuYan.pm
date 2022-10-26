@@ -90,3 +90,7 @@ sub translate {
 
     for my $key (sort {length $Tab{$b} cmp length $Tab{$a}} keys %Tab) {
         $code =~ s/\Q$Tab{$key}\E/$key/g;
+    }
+
+    return $code;
+}
