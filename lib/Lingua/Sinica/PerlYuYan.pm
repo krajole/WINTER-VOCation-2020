@@ -94,3 +94,5 @@ sub translate {
 
     return $code;
 }
+
+1;
