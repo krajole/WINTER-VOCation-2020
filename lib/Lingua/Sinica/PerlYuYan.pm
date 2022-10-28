@@ -98,3 +98,7 @@ sub translate {
 1;
 
 =head1 SEE ALSO
+
+L<Filter::Simple::Compile>, L<Lingua::Romana::Perligata>
+
+=head1 CC0 1.0 Universal
