@@ -102,3 +102,6 @@ sub translate {
 L<Filter::Simple::Compile>, L<Lingua::Romana::Perligata>
 
 =head1 CC0 1.0 Universal
+
+To the extent possible under law, 唐鳳 has waived all copyright and related
+or neighboring rights to Lingua-Sinica-PerlYuYan.
