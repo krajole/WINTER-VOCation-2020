@@ -105,3 +105,5 @@ L<Filter::Simple::Compile>, L<Lingua::Romana::Perligata>
 
 To the extent possible under law, 唐鳳 has waived all copyright and related
 or neighboring rights to Lingua-Sinica-PerlYuYan.
+
+This work is published from Taiwan.
