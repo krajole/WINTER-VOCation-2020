@@ -107,3 +107,7 @@ To the extent possible under law, 唐鳳 has waived all copyright and related
 or neighboring rights to Lingua-Sinica-PerlYuYan.
 
 This work is published from Taiwan.
+
+L<http://creativecommons.org/publicdomain/zero/1.0>
+
+=begin html
