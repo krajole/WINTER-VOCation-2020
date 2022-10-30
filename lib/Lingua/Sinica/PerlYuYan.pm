@@ -120,3 +120,10 @@ L<http://creativecommons.org/publicdomain/zero/1.0>
   To the extent possible under law, <a href="http://www.audreyt.org/" rel="dct:publisher"><span property="dct:title">唐鳳</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">Lingua-Sinica-PerlYuYan</span>.
+This work is published from
+<span about="http://www.audreyt.org/" property="vcard:Country" datatype="dct:ISO3166" content="TW">Taiwan</span>.
+</p>
+
+=end html
+
+=cut
