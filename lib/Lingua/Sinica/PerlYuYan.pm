@@ -117,3 +117,6 @@ L<http://creativecommons.org/publicdomain/zero/1.0>
     <img src="http://i.creativecommons.org/l/zero/1.0/88x31.png" border="0" alt="CC0" />
   </a>
   <br />
+  To the extent possible under law, <a href="http://www.audreyt.org/" rel="dct:publisher"><span property="dct:title">唐鳳</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">Lingua-Sinica-PerlYuYan</span>.
