@@ -131,3 +131,5 @@ This work is published from
 __DATA__
 a b c d e f g h i j k l m n o p q r s t u v w x y z
 甲乙丙丁戊己庚辛壬癸子丑寅卯辰巳午未申酉戌亥地水火風
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+青心赤肝黃脾白肺黑腎鼠牛虎兔龍蛇馬羊猴雞狗豬春夏秋冬
