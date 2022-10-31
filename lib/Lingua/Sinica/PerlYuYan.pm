@@ -127,3 +127,7 @@ This work is published from
 =end html
 
 =cut
+
+__DATA__
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+甲乙丙丁戊己庚辛壬癸子丑寅卯辰巳午未申酉戌亥地水火風
