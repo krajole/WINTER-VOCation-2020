@@ -133,3 +133,6 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z
 甲乙丙丁戊己庚辛壬癸子丑寅卯辰巳午未申酉戌亥地水火風
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 青心赤肝黃脾白肺黑腎鼠牛虎兔龍蛇馬羊猴雞狗豬春夏秋冬
+
+0 1 2 3 4 5 6 7 8 9 10 100 1000 10000 10000_0000
+零一二三四五六七八九十 百  千   萬    億
