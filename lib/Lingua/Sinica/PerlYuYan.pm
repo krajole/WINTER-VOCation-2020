@@ -155,3 +155,4 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 及 等 許 且  或 前 後 較  同 否
 
 =~ !~ x <=> ~~ //
+=~ !~ x <=> ~~ //
