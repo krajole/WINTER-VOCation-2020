@@ -164,3 +164,4 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 **= += *= &= <<= &&= -= /= |= >>= ||= .= %= ^= //= x=
 
 $/ $_ @_ "\x20" "\t" "\n" main
+段 此 諸 空     格   列   主
