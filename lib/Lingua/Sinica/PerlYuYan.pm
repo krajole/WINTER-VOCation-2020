@@ -170,3 +170,5 @@ STDIN STDOUT STDERR DATA BEGIN END INIT CHECK DESTROY
 入    出     誤     料   創    末  育   察    滅
 
 chomp chop chr crypt hex index lc lcfirst length oct ord pack q/ qq/ reverse
+截    斬   文  密    爻  索    纖 細      長     卦  序  包   引 雙  逆
+rindex sprintf substr tr/ uc ucfirst y/
