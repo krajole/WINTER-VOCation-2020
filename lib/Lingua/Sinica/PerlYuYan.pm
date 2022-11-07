@@ -165,3 +165,8 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
 $/ $_ @_ "\x20" "\t" "\n" main
 段 此 諸 空     格   列   主
+
+STDIN STDOUT STDERR DATA BEGIN END INIT CHECK DESTROY
+入    出     誤     料   創    末  育   察    滅
+
+chomp chop chr crypt hex index lc lcfirst length oct ord pack q/ qq/ reverse
