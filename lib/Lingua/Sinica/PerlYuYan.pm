@@ -176,3 +176,6 @@ rindex sprintf substr tr/ uc ucfirst y/
 
 m/ pos quotemeta s/ split study qr/
 符 位  逸        代 切    習    規
+
+abs atan2 cos exp hex int log oct rand sin sqrt srand
+絕  角    餘  階  爻  整  對  卦  亂   弦  根   騷
