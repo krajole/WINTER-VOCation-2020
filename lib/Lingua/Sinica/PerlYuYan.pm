@@ -179,3 +179,8 @@ m/ pos quotemeta s/ split study qr/
 
 abs atan2 cos exp hex int log oct rand sin sqrt srand
 絕  角    餘  階  爻  整  對  卦  亂   弦  根   騷
+
+pop push shift splice unshift
+彈  推   取    抽     予
+
+grep join map qw/ reverse sort unpack
