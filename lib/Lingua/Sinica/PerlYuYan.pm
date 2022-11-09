@@ -175,3 +175,4 @@ rindex sprintf substr tr/ uc ucfirst y/
 檢     編      部     轉  壯 厚      換
 
 m/ pos quotemeta s/ split study qr/
+符 位  逸        代 切    習    規
