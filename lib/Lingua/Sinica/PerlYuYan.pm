@@ -184,3 +184,4 @@ pop push shift splice unshift
 彈  推   取    抽     予
 
 grep join map qw/ reverse sort unpack
+篩   併   映  篇  逆      排   啟
