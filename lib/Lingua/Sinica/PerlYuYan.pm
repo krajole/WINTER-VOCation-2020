@@ -185,3 +185,5 @@ pop push shift splice unshift
 
 grep join map qw/ reverse sort unpack
 篩   併   映  篇  逆      排   啟
+
+delete each exists keys values
