@@ -187,3 +187,7 @@ grep join map qw/ reverse sort unpack
 篩   併   映  篇  逆      排   啟
 
 delete each exists keys values
+刪     每   存     鍵   值
+
+binmode close closedir dbmclose dbmopen die eof fileno flock format getc
+法      閉    關       閤       揭      死  結  號     鎖    排     擷
