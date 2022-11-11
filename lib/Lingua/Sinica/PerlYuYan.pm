@@ -193,3 +193,7 @@ binmode close closedir dbmclose dbmopen die eof fileno flock format getc
 法      閉    關       閤       揭      死  結  號     鎖    排     擷
 print printf read readdir rewinddir seek seekdir select syscall
 印    輸     讀   覽      迴        搜   尋      擇     召
+sysread sysseek syswrite tell telldir truncate warn write
+鑑      狩      敕       告   訴      縮       訊   寫
+
+pack read unpack vec
