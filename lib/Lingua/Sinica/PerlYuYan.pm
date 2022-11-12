@@ -197,3 +197,4 @@ sysread sysseek syswrite tell telldir truncate warn write
 鑑      狩      敕       告   訴      縮       訊   寫
 
 pack read unpack vec
+包   讀   啟     向
