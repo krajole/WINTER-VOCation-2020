@@ -198,3 +198,6 @@ sysread sysseek syswrite tell telldir truncate warn write
 
 pack read unpack vec
 包   讀   啟     向
+
+chdir chmod chown chroot fcntl glob ioctl link lstat mkdir open opendir
+目    權    擁    遷     控    全   制    鏈   況    造    開   展
