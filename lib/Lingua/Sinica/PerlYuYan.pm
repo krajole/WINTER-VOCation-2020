@@ -205,3 +205,4 @@ readlink rename rmdir stat symlink umask unlink utime
 循       更     毀    態   徵      蒙    鬆     刻
 
 say if else elsif until while foreach given when default break
+說  倘 匪   乃    迄    當    逐      設    若   預      折
