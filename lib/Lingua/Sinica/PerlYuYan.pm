@@ -202,3 +202,6 @@ pack read unpack vec
 chdir chmod chown chroot fcntl glob ioctl link lstat mkdir open opendir
 目    權    擁    遷     控    全   制    鏈   況    造    開   展
 readlink rename rmdir stat symlink umask unlink utime
+循       更     毀    態   徵      蒙    鬆     刻
+
+say if else elsif until while foreach given when default break
