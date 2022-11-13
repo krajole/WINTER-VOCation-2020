@@ -206,3 +206,5 @@ readlink rename rmdir stat symlink umask unlink utime
 
 say if else elsif until while foreach given when default break
 說  倘 匪   乃    迄    當    逐      設    若   預      折
+
+caller continue die do dump eval exit goto last next redo return sub wantarray
