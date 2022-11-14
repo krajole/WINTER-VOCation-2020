@@ -212,3 +212,5 @@ caller continue die do dump eval exit goto last next redo return sub wantarray
 
 caller import local my our package use
 喚     導     域    吾 咱  套      用
+
+defined dump eval formline local my our reset scalar undef wantarray
