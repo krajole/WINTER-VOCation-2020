@@ -218,3 +218,6 @@ defined dump eval formline local my our reset scalar undef wantarray
 
 alarm exec fork getpgrp getppid getpriority kill
 鈴    生   殖   getpgrp getppid getpriority 殺
+
+for
+重
