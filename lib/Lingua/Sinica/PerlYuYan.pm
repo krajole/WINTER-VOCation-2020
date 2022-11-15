@@ -214,3 +214,7 @@ caller import local my our package use
 喚     導     域    吾 咱  套      用
 
 defined dump eval formline local my our reset scalar undef wantarray
+定      傾   執   劃       域    吾 咱  抹    量     消    欲
+
+alarm exec fork getpgrp getppid getpriority kill
+鈴    生   殖   getpgrp getppid getpriority 殺
