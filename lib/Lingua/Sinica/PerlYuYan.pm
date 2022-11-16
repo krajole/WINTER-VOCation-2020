@@ -221,3 +221,5 @@ alarm exec fork getpgrp getppid getpriority kill
 
 for
 重
+
+pipe qx/ setpgrp setpriority sleep system times wait waitpid
