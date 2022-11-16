@@ -223,3 +223,4 @@ for
 重
 
 pipe qx/ setpgrp setpriority sleep system times wait waitpid
+管   qx/ setpgrp setpriority 眠    作     計    候   waitpid
