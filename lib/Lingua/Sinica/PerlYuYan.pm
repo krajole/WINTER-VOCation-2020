@@ -229,3 +229,4 @@ do no package require use
 為 無 套      必      用
 
 bless dbmclose dbmopen package ref tie tied untie
+祝    dbmclose dbmopen 套      照  纏  縛   解
