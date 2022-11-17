@@ -224,3 +224,8 @@ for
 
 pipe qx/ setpgrp setpriority sleep system times wait waitpid
 管   qx/ setpgrp setpriority 眠    作     計    候   waitpid
+
+do no package require use
+為 無 套      必      用
+
+bless dbmclose dbmopen package ref tie tied untie
