@@ -230,3 +230,6 @@ do no package require use
 
 bless dbmclose dbmopen package ref tie tied untie
 祝    dbmclose dbmopen 套      照  纏  縛   解
+
+accept bind connect getpeername getsockname getsockopt listen recv send
+受     束   連      getpeername getsockname getsockopt 聆     收   送
