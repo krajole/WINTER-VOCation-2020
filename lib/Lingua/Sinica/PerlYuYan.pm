@@ -233,3 +233,6 @@ bless dbmclose dbmopen package ref tie tied untie
 
 accept bind connect getpeername getsockname getsockopt listen recv send
 受     束   連      getpeername getsockname getsockopt 聆     收   送
+
+setsockopt shutdown sockatmark socket socketpair
+setsockopt shutdown sockatmark 槽     槏
