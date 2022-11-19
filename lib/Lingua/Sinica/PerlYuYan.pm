@@ -236,3 +236,8 @@ accept bind connect getpeername getsockname getsockopt listen recv send
 
 setsockopt shutdown sockatmark socket socketpair
 setsockopt shutdown sockatmark 槽     槏
+
+msgctl msgget msgrcv msgsnd semctl semget semop shmctl shmget shmread shmwrite
+msgctl msgget msgrcv msgsnd semctl semget semop shmctl shmget shmread shmwrite
+
+endgrent endhostent endnetent endpwent getgrent getgrgid getgrnam
