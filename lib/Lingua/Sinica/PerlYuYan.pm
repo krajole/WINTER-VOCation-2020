@@ -242,3 +242,5 @@ msgctl msgget msgrcv msgsnd semctl semget semop shmctl shmget shmread shmwrite
 
 endgrent endhostent endnetent endpwent getgrent getgrgid getgrnam
 endgrent endhostent endnetent endpwent getgrent getgrgid getgrnam
+
+getlogin getpwent getpwnam getpwuid setgrent setpwent
