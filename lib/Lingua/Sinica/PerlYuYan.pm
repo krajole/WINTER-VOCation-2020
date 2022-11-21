@@ -244,3 +244,4 @@ endgrent endhostent endnetent endpwent getgrent getgrgid getgrnam
 endgrent endhostent endnetent endpwent getgrent getgrgid getgrnam
 
 getlogin getpwent getpwnam getpwuid setgrent setpwent
+getlogin getpwent getpwnam getpwuid setgrent setpwent
