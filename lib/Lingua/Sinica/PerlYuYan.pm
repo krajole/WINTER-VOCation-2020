@@ -245,3 +245,6 @@ endgrent endhostent endnetent endpwent getgrent getgrgid getgrnam
 
 getlogin getpwent getpwnam getpwuid setgrent setpwent
 getlogin getpwent getpwnam getpwuid setgrent setpwent
+
+endprotoent endservent gethostbyaddr gethostbyname
+endprotoent endservent gethostbyaddr gethostbyname
