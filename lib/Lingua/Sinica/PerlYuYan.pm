@@ -248,3 +248,6 @@ getlogin getpwent getpwnam getpwuid setgrent setpwent
 
 endprotoent endservent gethostbyaddr gethostbyname
 endprotoent endservent gethostbyaddr gethostbyname
+
+gethostent getnetbyaddr getnetbyname getnetent
+gethostent getnetbyaddr getnetbyname getnetent
