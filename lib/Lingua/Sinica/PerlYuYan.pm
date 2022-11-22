@@ -251,3 +251,6 @@ endprotoent endservent gethostbyaddr gethostbyname
 
 gethostent getnetbyaddr getnetbyname getnetent
 gethostent getnetbyaddr getnetbyname getnetent
+
+getprotobyname getprotobynumber getprotoent
+getprotobyname getprotobynumber getprotoent
