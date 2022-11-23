@@ -254,3 +254,6 @@ gethostent getnetbyaddr getnetbyname getnetent
 
 getprotobyname getprotobynumber getprotoent
 getprotobyname getprotobynumber getprotoent
+
+getservbyname getservbyport getservent sethostent
+getservbyname getservbyport getservent sethostent
