@@ -260,3 +260,5 @@ getservbyname getservbyport getservent sethostent
 
 setnetent setprotoent setservent
 setnetent setprotoent setservent
+
+gmtime localtime time
