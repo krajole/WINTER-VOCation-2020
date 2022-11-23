@@ -257,3 +257,6 @@ getprotobyname getprotobynumber getprotoent
 
 getservbyname getservbyport getservent sethostent
 getservbyname getservbyport getservent sethostent
+
+setnetent setprotoent setservent
+setnetent setprotoent setservent
