@@ -262,3 +262,6 @@ setnetent setprotoent setservent
 setnetent setprotoent setservent
 
 gmtime localtime time
+準     區        時
+
+attributes autouse base blib bytes charnames constant diagnostics encoding fields
