@@ -265,3 +265,7 @@ gmtime localtime time
 準     區        時
 
 attributes autouse base blib bytes charnames constant diagnostics encoding fields
+性         活      基   括   字    名        常       診          碼       欄
+filetest integer less locale overload sigtrap strict subs utf8 vars vmsish warnings
+試       籌      少   國     載       號      嚴     式   通   變   倭     警
+Lingua::Sinica::PerlYuYan::translate Lingua::Sinica::PerlYuYan::Tab
