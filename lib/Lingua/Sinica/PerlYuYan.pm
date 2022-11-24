@@ -269,3 +269,4 @@ attributes autouse base blib bytes charnames constant diagnostics encoding field
 filetest integer less locale overload sigtrap strict subs utf8 vars vmsish warnings
 試       籌      少   國     載       號      嚴     式   通   變   倭     警
 Lingua::Sinica::PerlYuYan::translate Lingua::Sinica::PerlYuYan::Tab
+譯                                   表
