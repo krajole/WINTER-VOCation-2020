@@ -1,1 +1,1 @@
-#!/usr/bi
+#!/usr/bin/
