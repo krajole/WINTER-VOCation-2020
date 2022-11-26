@@ -1,1 +1,2 @@
-#!/usr/bin/env pe
+#!/usr/bin/env perl
+u
