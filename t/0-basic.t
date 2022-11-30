@@ -1,2 +1,4 @@
 #!/usr/bin/env perl
-use Lingua::Sinica::PerlYuYan
+use Lingua::Sinica::PerlYuYan;
+
+用
