@@ -1,4 +1,4 @@
 #!/usr/bin/env perl
 use Lingua::Sinica::PerlYuYan;
 
-用警兮
+用警兮用嚴。
