@@ -5,3 +5,4 @@ use Lingua::Sinica::PerlYuYan;
 
 印道
 一至一
+哉
