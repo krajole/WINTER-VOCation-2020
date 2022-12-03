@@ -7,3 +7,4 @@ use Lingua::Sinica::PerlYuYan;
 一至一
 哉兮
 
+印編曰雜申
