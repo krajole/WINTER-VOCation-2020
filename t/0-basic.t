@@ -10,3 +10,4 @@ use Lingua::Sinica::PerlYuYan;
 印編曰雜申
       雜申矣
 又纖曰龍鼠矣
+  又曰
