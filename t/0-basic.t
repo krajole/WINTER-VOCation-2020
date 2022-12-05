@@ -8,4 +8,5 @@ use Lingua::Sinica::PerlYuYan;
 哉兮
 
 印編曰雜申
-      雜申
+      雜申矣
+又纖
