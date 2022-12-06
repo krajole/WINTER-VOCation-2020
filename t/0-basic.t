@@ -11,4 +11,4 @@ use Lingua::Sinica::PerlYuYan;
       雜申矣
 又纖曰龍鼠矣
   又曰
-    一
+    一矣
