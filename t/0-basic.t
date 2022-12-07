@@ -13,4 +13,4 @@ use Lingua::Sinica::PerlYuYan;
   又曰
     一矣
 
-亂
+亂曰
