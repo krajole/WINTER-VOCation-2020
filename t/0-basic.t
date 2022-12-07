@@ -12,3 +12,5 @@ use Lingua::Sinica::PerlYuYan;
 又纖曰龍鼠矣
   又曰
     一矣
+
+亂
