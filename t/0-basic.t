@@ -14,4 +14,4 @@ use Lingua::Sinica::PerlYuYan;
     一矣
 
 亂曰
-國無
+國無人莫我
