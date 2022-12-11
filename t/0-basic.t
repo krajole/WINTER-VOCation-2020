@@ -15,3 +15,4 @@ use Lingua::Sinica::PerlYuYan;
 
 亂曰
 國無人莫我知兮    又何懷乎故都
+既莫
