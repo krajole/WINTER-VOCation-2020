@@ -18,3 +18,4 @@ use Lingua::Sinica::PerlYuYan;
 既莫足與為美政兮  吾將從彭咸之所居
 
 資曰
+印重一
