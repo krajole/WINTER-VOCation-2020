@@ -19,4 +19,4 @@ use Lingua::Sinica::PerlYuYan;
 
 資曰
 印重一至一兮
-重起
+重起一至
