@@ -1,1 +1,1 @@
-use Lingu
+use Lingua::
