@@ -1,1 +1,1 @@
-use Lingua::Sinica::
+use Lingua::Sinica::PerlYu
