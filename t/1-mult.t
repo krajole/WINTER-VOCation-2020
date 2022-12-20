@@ -1,1 +1,1 @@
-use Lingua::
+use Lingua::S
