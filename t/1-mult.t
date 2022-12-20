@@ -1,1 +1,1 @@
-use Lingua::Sinic
+use Lingua::Sinica::
