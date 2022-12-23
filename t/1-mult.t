@@ -1,3 +1,3 @@
 use Lingua::Sinica::PerlYuYan;
 
-註
+註俄
