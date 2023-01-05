@@ -5,4 +5,5 @@ use Lingua::Sinica::PerlYuYan;
 
           用
          通兮
-        副俄
+        副俄農
+  
