@@ -6,4 +6,4 @@ use Lingua::Sinica::PerlYuYan;
           用
          通兮
         副俄農
-       始
+       始吾起純
