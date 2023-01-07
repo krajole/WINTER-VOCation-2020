@@ -7,3 +7,4 @@ use Lingua::Sinica::PerlYuYan;
          通兮
         副俄農
        始吾起純
+    
