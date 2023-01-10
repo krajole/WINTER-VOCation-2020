@@ -8,4 +8,4 @@ use Lingua::Sinica::PerlYuYan;
         副俄農
        始吾起純
       衰又純添合
-     賦諸兮
+     賦諸兮吾純果
