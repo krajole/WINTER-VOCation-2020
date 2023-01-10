@@ -9,3 +9,4 @@ use Lingua::Sinica::PerlYuYan;
        始吾起純
       衰又純添合
      賦諸兮吾純果
+  
