@@ -12,3 +12,4 @@ use Lingua::Sinica::PerlYuYan;
     兮當起純衰大壹
    合始純衰賦整純衰
   除貳兮純添賦貳乘純
+ 
