@@ -13,4 +13,4 @@ use Lingua::Sinica::PerlYuYan;
    合始純衰賦整純衰
   除貳兮純添賦貳乘純
  添兮純果賦純果加純添
-倘壹
+倘壹等
