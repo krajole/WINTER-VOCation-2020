@@ -14,3 +14,5 @@ use Lingua::Sinica::PerlYuYan;
   除貳兮純添賦貳乘純
  添兮純果賦純果加純添
 倘壹等純衰模貳終純果終
+
+u
