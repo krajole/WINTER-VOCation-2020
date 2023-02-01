@@ -15,4 +15,4 @@ use Lingua::Sinica::PerlYuYan;
  添兮純果賦純果加純添
 倘壹等純衰模貳終純果終
 
-use Test:
+use Test::Mo
