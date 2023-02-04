@@ -16,3 +16,4 @@ use Lingua::Sinica::PerlYuYan;
 倘壹等純衰模貳終純果終
 
 use Test::More tests => 1;
+is
