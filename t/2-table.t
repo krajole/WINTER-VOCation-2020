@@ -11,3 +11,6 @@ binmode $builder->todo_output,    ':utf8';
 
 %check = (
     火 => 'y',
+    風 => 'z',
+    秋 => 'Y',
+    冬 => 'Z',
