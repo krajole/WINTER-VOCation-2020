@@ -16,3 +16,4 @@ binmode $builder->todo_output,    ':utf8';
     冬 => 'Z',
     萬 => 10**4,
     億 => '10000_0000',
+    廿 => 20,
