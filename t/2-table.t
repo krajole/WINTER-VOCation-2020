@@ -18,3 +18,4 @@ binmode $builder->todo_output,    ':utf8';
     億 => '10000_0000',
     廿 => 20,
     卅 => 30,
+    '８' => 8,
