@@ -19,3 +19,4 @@ binmode $builder->todo_output,    ':utf8';
     廿 => 20,
     卅 => 30,
     '８' => 8,
+    '９' => 9,
