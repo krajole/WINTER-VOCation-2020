@@ -35,3 +35,6 @@ binmode $builder->todo_output,    ':utf8';
     察 => 'CHECK',
     滅 => 'DESTROY',
     雙 => 'qq/',
+    逆 => 'reverse ',
+    厚 => 'ucfirst ',
+    換 => 'y/',
