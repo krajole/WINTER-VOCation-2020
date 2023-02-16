@@ -38,3 +38,8 @@ binmode $builder->todo_output,    ':utf8';
     逆 => 'reverse ',
     厚 => 'ucfirst ',
     換 => 'y/',
+    習 => 'study ',
+    規 => 'qr/',
+    根 => 'sqrt ',
+    騷 => 'srand ',
+    抽 => 'splice ',
