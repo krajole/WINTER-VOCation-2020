@@ -33,3 +33,5 @@ binmode $builder->todo_output,    ':utf8';
     列 => '"\\n"',
     主 => 'main ',
     察 => 'CHECK',
+    滅 => 'DESTROY',
+    雙 => 'qq/',
