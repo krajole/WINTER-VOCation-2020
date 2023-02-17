@@ -43,3 +43,5 @@ binmode $builder->todo_output,    ':utf8';
     根 => 'sqrt ',
     騷 => 'srand ',
     抽 => 'splice ',
+    予 => 'unshift ',
+    排 => 'sort ',
