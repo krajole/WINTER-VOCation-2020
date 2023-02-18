@@ -46,3 +46,6 @@ binmode $builder->todo_output,    ':utf8';
     予 => 'unshift ',
     排 => 'sort ',
     啟 => 'unpack ',
+    鍵 => 'keys ',
+    值 => 'values ',
+    排 => 'format ',
