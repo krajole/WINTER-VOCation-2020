@@ -55,3 +55,5 @@ binmode $builder->todo_output,    ':utf8';
     訊 => 'warn ',
     寫 => 'write ',
     啟 => 'unpack ',
+    向 => 'vec ',
+    開 => 'open ',
