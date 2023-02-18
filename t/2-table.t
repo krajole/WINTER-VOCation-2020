@@ -57,3 +57,4 @@ binmode $builder->todo_output,    ':utf8';
     啟 => 'unpack ',
     向 => 'vec ',
     開 => 'open ',
+    展 => 'opendir ',
