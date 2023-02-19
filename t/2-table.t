@@ -60,3 +60,4 @@ binmode $builder->todo_output,    ':utf8';
     展 => 'opendir ',
     鬆 => 'unlink ',
     刻 => 'utime ',
+    副 => 'sub ',
