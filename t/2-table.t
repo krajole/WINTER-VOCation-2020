@@ -63,3 +63,7 @@ binmode $builder->todo_output,    ':utf8';
     副 => 'sub ',
     欲 => 'wantarray ',
     套 => 'package ',
+    用 => 'use ',
+    消 => 'undef ',
+    欲 => 'wantarray ',
+    殺 => 'kill ',
