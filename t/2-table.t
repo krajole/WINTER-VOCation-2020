@@ -61,3 +61,5 @@ binmode $builder->todo_output,    ':utf8';
     鬆 => 'unlink ',
     刻 => 'utime ',
     副 => 'sub ',
+    欲 => 'wantarray ',
+    套 => 'package ',
