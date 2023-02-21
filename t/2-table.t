@@ -67,3 +67,8 @@ binmode $builder->todo_output,    ':utf8';
     消 => 'undef ',
     欲 => 'wantarray ',
     殺 => 'kill ',
+    重 => 'for ',
+    候 => 'wait ',
+    必 => 'require ',
+    用 => 'use ',
+    縛 => 'tied ',
