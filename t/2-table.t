@@ -79,3 +79,6 @@ binmode $builder->todo_output,    ':utf8';
     區 => 'localtime ',
     時 => 'time ',
     碼 => 'encoding ',
+    欄 => 'fields ',
+    倭 => 'vmsish ',
+    警 => 'warnings ',
