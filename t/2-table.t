@@ -75,3 +75,7 @@ binmode $builder->todo_output,    ':utf8';
     解 => 'untie ',
     收 => 'recv ',
     送 => 'send ',
+    槽 => 'socket ',
+    區 => 'localtime ',
+    時 => 'time ',
+    碼 => 'encoding ',
