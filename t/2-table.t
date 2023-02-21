@@ -72,3 +72,6 @@ binmode $builder->todo_output,    ':utf8';
     必 => 'require ',
     用 => 'use ',
     縛 => 'tied ',
+    解 => 'untie ',
+    收 => 'recv ',
+    送 => 'send ',
