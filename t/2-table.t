@@ -85,3 +85,7 @@ binmode $builder->todo_output,    ':utf8';
     譯 => 'Lingua::Sinica::PerlYuYan::translate',
     表 => 'Lingua::Sinica::PerlYuYan::Tab',
 );
+my @untranslated = qw(
+    formline getppid getpriority waitpid dbmopen getsockopt socketpair shmwrite
+    getgrnam setpwent gethostbyname getnetent getprotoent setservent
+);
