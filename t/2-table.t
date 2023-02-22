@@ -82,3 +82,6 @@ binmode $builder->todo_output,    ':utf8';
     欄 => 'fields ',
     倭 => 'vmsish ',
     警 => 'warnings ',
+    譯 => 'Lingua::Sinica::PerlYuYan::translate',
+    表 => 'Lingua::Sinica::PerlYuYan::Tab',
+);
