@@ -89,3 +89,5 @@ my @untranslated = qw(
     formline getppid getpriority waitpid dbmopen getsockopt socketpair shmwrite
     getgrnam setpwent gethostbyname getnetent getprotoent setservent
 );
+
+plan tests => keys(%check) + @untranslated;
