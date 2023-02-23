@@ -93,3 +93,4 @@ my @untranslated = qw(
 plan tests => keys(%check) + @untranslated;
 
 is $Lingua::Sinica::PerlYuYan::Tab{$_}, $check{$_},
+  "sample keyword $_ == »$check{$_}«" for keys %check;
