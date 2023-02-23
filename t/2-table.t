@@ -91,3 +91,5 @@ my @untranslated = qw(
 );
 
 plan tests => keys(%check) + @untranslated;
+
+is $Lingua::Sinica::PerlYuYan::Tab{$_}, $check{$_},
