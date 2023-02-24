@@ -94,3 +94,5 @@ plan tests => keys(%check) + @untranslated;
 
 is $Lingua::Sinica::PerlYuYan::Tab{$_}, $check{$_},
   "sample keyword $_ == »$check{$_}«" for keys %check;
+ok !exists $Lingua::Sinica::PerlYuYan::Tab{$_},
+  "untranslated keyword »$_« is not in the table" for @untranslated;
